@@ -1,0 +1,5 @@
+*       text=auto
+
+*.mb    binary
+
+*.bat   text eol=crlf
